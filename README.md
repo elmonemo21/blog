@@ -7,3 +7,5 @@ July 20, 2016 - Renewed acquaintance with Github
 * list
 * list
 todo-651
+<ignored text><TODO-651><ignored text> #1st try <comment_string>
+TODO-651 #2nd try
