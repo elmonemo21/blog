@@ -5,4 +5,4 @@ Mike's test blog
 ### Things to do today
 * learn git
 * think about elevator speech  
-# July 22, 2016 - Made some new friends on wespeake
+### July 22, 2016 - Made some new friends on wespeake
