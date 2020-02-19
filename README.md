@@ -7,3 +7,4 @@ Mike's test blog
 * think about elevator speech  
 
 #### July 22, 2016 - Made some new friends on wespeake
+#### Feb 19, 2020 - looked at speakly.com
